@@ -1,5 +1,9 @@
 # Introduction to DataWrapper for news graphics
 
+Shortlink to this repository: [shorturl.at/uKQT9](http://shorturl.at/uKQT9)
+
+## What's DataWrapper?
+
 Datawrapper is a powerful tool that allows you to easily visualize data as beautiful charts, maps and tables with just a few clicks.
 
 Datawrapper was created by a team of designers, developers and journalists from news organizations including Bloomberg, Deutsche Welle, NPR, NYT and ZEIT – so it has the storytelling needs of journalists in mind.
