@@ -6,7 +6,7 @@ Datawrapper was created by a team of designers, developers and journalists from 
 
 We've been using it for years at the Star Tribune. But the last handful of years has seen it evolve into our primary news graphics and data visualization engine, completely supplanting older tools and even complex dataviz libraries like D3.
 
-DataWrapper itself is built upon D3, and democratizes the library's power and flexibility to non-coders.
+DataWrapper itself is built upon [D3](https://d3js.org/), and democratizes the library's power and flexibility to non-coders.
 
 All DataWrapper graphics are easily embeddable in most CMS.
 
