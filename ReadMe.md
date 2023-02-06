@@ -2,7 +2,7 @@
 
 Datawrapper is a powerful tool that allows you to easily visualize data as beautiful charts, maps and tables with just a few clicks.
 
-Datawrapper was created by a team of designers, developers and journalists from companies like Bloomberg, NYT, NPR, Deutsche Welle and ZEIT Online – so it has the storytelling needs of journalists in mind.
+Datawrapper was created by a team of designers, developers and journalists from news organizations including Bloomberg, Deutsche Welle, NPR, NYT and ZEIT – so it has the storytelling needs of journalists in mind.
 
 We've been using it for years at the Star Tribune. But the last handful of years has seen it evolve into our primary news graphics and data visualization engine, completely supplanting older tools and even complex dataviz libraries like D3.
 
