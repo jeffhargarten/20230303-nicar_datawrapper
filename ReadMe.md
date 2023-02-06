@@ -1,4 +1,4 @@
-##Introduction to DataWrapper for news graphics
+#Introduction to DataWrapper for news graphics
 
 Datawrapper is a powerful tool that allows you to easily visualize data as beautiful charts, maps and tables with just a few clicks.
 
@@ -15,7 +15,7 @@ It can also export digital graphics as SVGs and other formats for use in print.
 It has free and subscription tiers, with the latter providing custom styles and support.
 
 
-##Getting started
+#Getting started
 
 1. [Make some free accounts at DataWrapper](https://www.datawrapper.de/)
 
@@ -24,12 +24,12 @@ It has free and subscription tiers, with the latter providing custom styles and 
 3. Start playing around and experimenting with different chart types!
 
 
-##Other resources
+#Other resources
 
 [Official DataWrapper training materials](https://www.datawrapper.de/training-materials)
 
 
-##About me
+#About me
 
 I'm Jeff Hargarten, a Star Tribune journalists in Minneapolis at the intersection of data analysis, reporting, coding and design.
 
