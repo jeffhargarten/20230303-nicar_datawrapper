@@ -25,7 +25,9 @@ It has free and subscription tiers, with the latter providing custom styles and 
 
 2. [Open our data examples Google Sheet](https://docs.google.com/spreadsheets/d/1SXw_iuyY7ot6xglBG9fQyBQSA2n3SRus3anTyby535k/edit?usp=sharing)
 
-3. Start playing around and experimenting with different chart types!
+3. Download your own copy of the spreadsheet
+
+4. Start playing around and experimenting with different chart types!
 
 
 ## Other resources
