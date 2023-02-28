@@ -6,9 +6,9 @@ Shortlink to this repository: [shorturl.at/uKQT9](http://shorturl.at/uKQT9)
 
 Datawrapper is a powerful tool that allows you to easily visualize data as beautiful charts, maps and tables with just a few clicks.
 
-Datawrapper was created by a team of designers, developers and journalists from news organizations including Bloomberg, Deutsche Welle, NPR, NYT and ZEIT – so it has the storytelling needs of journalists in mind.
+Datawrapper was created by a team of developers and journalists from news orgs like Bloomberg, Deutsche Welle, NPR, NYT and ZEIT – so it has the storytelling needs of journalists in mind.
 
-We've been using it for years at the Star Tribune. But the last handful of years has seen it evolve into our primary news graphics and data visualization engine, completely supplanting older tools and even complex dataviz libraries like D3.
+We've been using it for awhile at the Star Tribune. But the last handful of years has seen it evolve into our primary news graphics and data visualization engine, completely supplanting older tools and even complex dataviz libraries like D3.
 
 DataWrapper itself is built upon [D3](https://d3js.org/), and democratizes the library's power and flexibility to non-coders.
 
