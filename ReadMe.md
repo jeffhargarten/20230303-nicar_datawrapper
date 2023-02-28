@@ -23,7 +23,7 @@ It has free and subscription tiers, with the latter providing custom styles and 
 
 1. [Make a free account at DataWrapper](https://www.datawrapper.de/)
 
-2. [Open our data examples Google Sheet](https://docs.google.com/spreadsheets/d/1SXw_iuyY7ot6xglBG9fQyBQSA2n3SRus3anTyby535k/edit?usp=sharing) – most of this data is fake, so don't take it literally!
+2. [Open our data examples Google Sheet](https://docs.google.com/spreadsheets/d/1SXw_iuyY7ot6xglBG9fQyBQSA2n3SRus3anTyby535k/edit?usp=sharing)
 
 3. Start playing around and experimenting with different chart types!
 
