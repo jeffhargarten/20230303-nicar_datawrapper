@@ -21,7 +21,9 @@ It has free and subscription tiers, with the latter providing custom styles and 
 
 ## Getting started
 
-1. [Make a free account at DataWrapper](https://www.datawrapper.de/)
+1. [Go to DataWrapper](https://www.datawrapper.de/)
+
+2. Either click "Login" > "Create new account" OR just select "Start creating"
 
 2. [Open our data examples Google Sheet](https://docs.google.com/spreadsheets/d/1SXw_iuyY7ot6xglBG9fQyBQSA2n3SRus3anTyby535k/edit?usp=sharing)
 
