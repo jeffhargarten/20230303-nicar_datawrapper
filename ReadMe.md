@@ -37,6 +37,8 @@ It has free and subscription tiers, with the latter providing custom styles and 
 [Official DataWrapper training materials](https://www.datawrapper.de/training-materials)
 
 
+
+
 ## About me
 
 I'm Jeff Hargarten, a Star Tribune journalists in Minneapolis at the intersection of data analysis, reporting, coding and design.
