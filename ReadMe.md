@@ -1,18 +1,16 @@
+# Introduction to DataWrapper for news graphics
 
+Shortlink to this repository: [shorturl.at/uKQT9](http://shorturl.at/uKQT9)
 
 
 ## About me
 
-[StarTribune](https://github.com/jeffhargarten/20230303-nicar_datawrapper/blob/main/strib-thumb.png?raw=true) 
+![StarTribune](https://github.com/jeffhargarten/20230303-nicar_datawrapper/blob/main/strib-thumb.png?raw=true) 
 
 I'm Jeff Hargarten, a Star Tribune journalists in Minneapolis at the intersection of data analysis, reporting, coding and design.
 
 Accursed Bird Site: [@jeffhargarten](https://twitter.com/JeffHargarten)
 
-
-# Introduction to DataWrapper for news graphics
-
-Shortlink to this repository: [shorturl.at/uKQT9](http://shorturl.at/uKQT9)
 
 ## What's DataWrapper?
 
